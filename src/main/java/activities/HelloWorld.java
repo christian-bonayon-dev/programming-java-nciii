@@ -1,0 +1,27 @@
+package com.activities;
+
+/*
+    Activity 1: Your First Java Program — Hello, World!
+
+    Objective:
+        Learn how to create, compile, and run a basic Java program that prints a message to the screen.
+
+    Instructions:
+        - Open your preferred IDE (e.g., Eclipse, IntelliJ, or VS Code).
+        - Create a file named HelloWorld.java
+        - Print "Hello, World!";
+        - Print your full name
+
+    Run the program and observe the output.
+
+    Sample Output:
+    Hello, World!
+    Hello, I am Christian G. Bonayon!
+*/
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.println("Hello, I am Christian G. Bonayon!");
+    }
+}
