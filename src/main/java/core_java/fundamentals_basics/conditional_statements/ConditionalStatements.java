@@ -13,11 +13,7 @@ public class ConditionalStatements {
         /*
          *   If-Else Statement (if-then-else)
          */
-        if(currentAge >= LEGAL_AGE) {
-            System.out.println("You are allowed to vote.");
-        } else {
-            System.out.println("You are not allowed to vote.");
-        }
+
 
         /*
          *   If-Else-If Statement (if...else...if)
