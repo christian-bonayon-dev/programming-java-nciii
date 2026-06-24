@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 6: Calculate Area of a Triangle

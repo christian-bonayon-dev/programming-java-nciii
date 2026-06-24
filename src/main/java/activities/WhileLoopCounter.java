@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 15: Print Numbers from 1 to N using a While Loop

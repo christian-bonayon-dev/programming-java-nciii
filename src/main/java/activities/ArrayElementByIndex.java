@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 24: Get Array Element by Index

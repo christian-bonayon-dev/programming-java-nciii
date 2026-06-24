@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 7: Odd or Even Checker

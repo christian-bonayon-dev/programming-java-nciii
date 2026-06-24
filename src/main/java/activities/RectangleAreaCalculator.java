@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 4: Calculate Area of a Rectangle

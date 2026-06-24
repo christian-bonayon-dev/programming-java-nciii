@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 18: Try Again! Using do-while Loop for Valid Input

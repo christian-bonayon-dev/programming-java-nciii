@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 2: Getting to Know You — Input & Variables in Java

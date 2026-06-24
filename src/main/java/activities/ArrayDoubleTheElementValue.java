@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 23: Double the element value - Group Activity

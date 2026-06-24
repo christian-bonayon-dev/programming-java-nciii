@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 22: Search for a Number in an Array

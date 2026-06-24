@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 20: Display Elements of a Predefined Array (Enhanced For Loop)

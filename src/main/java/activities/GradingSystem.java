@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 11: Grading System using If-Else

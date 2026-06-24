@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 3: Let's Do the Math — Basic Arithmetic in Java

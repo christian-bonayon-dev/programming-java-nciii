@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 21: Introduction to Arrays — Store and Display Integers

@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 25: Average of Elements in an Array (Group Activity)

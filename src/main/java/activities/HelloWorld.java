@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 1: Your First Java Program — Hello, World!

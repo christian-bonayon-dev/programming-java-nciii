@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 17: Sum of N Numbers

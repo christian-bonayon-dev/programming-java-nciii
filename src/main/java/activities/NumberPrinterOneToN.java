@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 13: Print Numbers from 1 to N using a For Loop

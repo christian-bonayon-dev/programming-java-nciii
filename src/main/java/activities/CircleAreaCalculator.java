@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 5: Calculate Area of a Circle

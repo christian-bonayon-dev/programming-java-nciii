@@ -1,4 +1,4 @@
-package com.activities;
+package activities;
 
 /*
     Activity 12: Find the Largest Among Three Numbers
