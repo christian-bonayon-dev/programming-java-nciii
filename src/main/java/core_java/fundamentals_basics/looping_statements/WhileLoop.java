@@ -9,5 +9,7 @@ public class WhileLoop {
 
             count++;    // Use increment operator to avoid infinite loop (* It depends on requirements)
         }
+
+        // Note: If the number of iteration is not fixed, it is recommended to use while loop.
     }
 }
