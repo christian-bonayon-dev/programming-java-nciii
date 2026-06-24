@@ -22,6 +22,6 @@ public class OperatorPrecedence {
         *   total =                 5;
         */
 
-        System.out.println(total);  // Output: 5
+        System.out.println(total);      // Output: 5
     }
 }
