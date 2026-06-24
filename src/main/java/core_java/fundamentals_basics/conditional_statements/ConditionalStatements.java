@@ -8,9 +8,7 @@ public class ConditionalStatements {
         /*
         *   If Statement (if-then)
         */
-        if(currentAge > LEGAL_AGE) {
-            System.out.println("You are in a legal age.");
-        }
+
 
         /*
          *   If-Else Statement (if-then-else)
