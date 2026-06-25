@@ -11,6 +11,15 @@ public class Program {
          *   Note: All exposed members (using public, package-private, protected access modifier)
          *   attributes and methods in parent class (ClassA) are inherited or accessible in child
          *   class (ClassB).
+         *
+         *   In Java, Inheritance is an is-a relationship. We use inheritance only if there exists an
+         *   is-a relationship between two classes.
+         *
+         *   Example:
+         *      * Car is a Vehicle
+         *      * Orange is a Fruit
+         *      * Surgeon is a Doctor
+         *      * Dog is an Animal
          */
     }
 }
