@@ -1,4 +1,4 @@
-package core_java.intermediate.composition_over_inheritance;
+package core_java.intermediate.oop.inheritance.composition_over_inheritance;
 
 public class Program {
     public static void main(String[] args) {
